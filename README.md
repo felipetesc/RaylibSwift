@@ -1,5 +1,10 @@
 # Raylib for Swift
-<a href="https://swift.org"><img style="vertical-align:middle" src=https://aws1.discourse-cdn.com/swift/original/1X/0a90dde98a223f5841eeca49d89dc9f57592e8d6.png width="50"></a><a href="https://www.raylib.com"><img style="vertical-align:middle" src=https://www.raylib.com/common/img/raylib_logo.png width="50"></a>
+<a href="https://swift.org">
+  <img style="vertical-align:middle" src="https://developer.apple.com/swift/images/swift-logo.svg" width="50">
+</a>
+<a href="https://www.raylib.com">
+  <img style="vertical-align:middle" src=https://www.raylib.com/common/img/raylib_logo.png width="50">
+</a>
 
 [![Windows](https://github.com/STREGAsGate/Raylib/actions/workflows/Windows.yml/badge.svg)](https://github.com/STREGAsGate/Raylib/actions/workflows/Windows.yml) [![macOS](https://github.com/STREGAsGate/Raylib/actions/workflows/macOS.yml/badge.svg)](https://github.com/STREGAsGate/Raylib/actions/workflows/macOS.yml) [![Linux](https://github.com/STREGAsGate/Raylib/actions/workflows/Linux.yml/badge.svg)](https://github.com/STREGAsGate/Raylib/actions/workflows/Linux.yml) 
 
